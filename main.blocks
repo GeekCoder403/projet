@@ -1,1 +1,18 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="m=MyZPVq;#r*_R5Bn?IP" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="@X}2?zy]um!G_h|)6]k@">player1</variable><variable type="KIND_SpriteKind" id="7MA8$JFw$zrR[rFB*Zy6">Player</variable><variable type="KIND_SpriteKind" id=":3q6u-1BgcTYrZx-Y/+%">Projectile</variable><variable type="KIND_SpriteKind" id="0GD73r`BdWobv1vIVc8U">Food</variable><variable type="KIND_SpriteKind" id="u1k]5c{aMa*UD8S+TW:9">Enemy</variable></variables><block type="pxt-on-start" id="b1jM9g+-{th.lZHS-*2e" x="33" y="52"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="v_/{9!hlMJ7xgNkj*ZAa"><value name="color"><shadow type="colorindexpicker" id="Fr2uRkTybIcT8NFjOo1x"><field name="index">1</field></shadow></value><next><block type="variables_set" id="1aCUxH3VdbV4^hz1%UzC"><field name="VAR" id="@X}2?zy]um!G_h|)6]k@">player1</field><value name="VALUE"><shadow type="math_number" id="byS=2Ax,VH7;uYP|kf;t"><field name="NUM">0</field></shadow><block type="spritescreate" id=";e.HFUB%}pxO8o@4`?ku"><value name="img"><shadow type="screen_image_picker" id="D[Gj${,qR!.Wjv$ZPi5F"><field name="img">img`
+f 5 f 5 f 5 f 5 f 5 f 5 f 5 f 5 
+5 . . . . . . . . . . . . . . f 
+f . . . . . . . . . . . . . . 5 
+5 . . . . . . . . . . . . . . f 
+f . . . . . . . . . . . . . . 5 
+5 . . . . . . . . . . . . . . f 
+f . . . . . . . . . . . . . . 5 
+5 . . . . . . . . . . . . . . f 
+f . . . . . . . . . . . . . . 5 
+5 . . . . . . . . . . . . . . f 
+f . . . . . . . . . . . . . . 5 
+5 . . . . . . . . . . . . . . f 
+f . . . . . . . . . . . . . . 5 
+5 . . . . . . . . . . . . . . f 
+f . . . . . . . . . . . . . . 5 
+5 f 5 f 5 f 5 f 5 f 5 f 5 f 5 f 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="Lr7{S{4TKO)y[Z5;%s*^"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
